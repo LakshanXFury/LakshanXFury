@@ -66,10 +66,10 @@ Currently deepening my skills in Python, automation, AI-powered apps, and DevOps
 | Area | Focus |
 |---|---|
 | 🐍 Python | Data structures, algorithms, and automation tooling |
+| Automation Testing |Robot Framework, Selenium, Salesforce, API| 
 | 🤖 AI Apps | Building LLM-powered applications with OpenAI & Gemini APIs |
 | ⚙️ DevOps | GitHub Actions, Docker, CI/CD pipelines |
-| 🌐 Web | Full-stack development fundamentals |
-
+| 🌐 Web | Full-stack development|
 ---
 
 ## 📊 GitHub Stats
