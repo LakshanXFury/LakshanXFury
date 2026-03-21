@@ -7,7 +7,7 @@
 *Building robust systems, one line of code at a time.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/lakshan-6bb843169)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://lakshanxfury.w3spaces.com/)
+![Portfolio](https://img.shields.io/badge/Portfolio-FF6C37?style=flat-square&logo=About.me&logoColor=white)](https://lakshanxfury.w3spaces.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LakshanXFury)
 ![Profile Views](https://komarev.com/ghpvc/?username=lakshanxfury&style=flat-square&color=0e75b6)
 
